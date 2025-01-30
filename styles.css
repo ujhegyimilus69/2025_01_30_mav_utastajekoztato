@@ -5,3 +5,4 @@ table {
     font-family: 'Courier New';  /* betűtípus */
     font-size: 30px; /* betűméret */
   }
+  td {background-color: blueviolet;}
