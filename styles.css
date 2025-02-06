@@ -6,3 +6,8 @@ table {
     font-size: 30px; /* betűméret */
   }
   td {background-color: blueviolet;}
+
+  #keses{
+    background-color: red;
+  }
+  .elso_oszlop{background-color: aqua;}
