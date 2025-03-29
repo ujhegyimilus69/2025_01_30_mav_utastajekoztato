@@ -2,6 +2,12 @@
 
 induló és érkező vonatok
 
-### Ez az élő linkje
+### Funkciója 🚂📝
 
-https://github.com/ujhegyimilus69/2025_01_30_mav_utastajekoztato.git
+-Egyszerű áttekintést nyújt
+-Hasznos információk járatokról
+
+### Ezen a linken tekinthető meg 👀
+
+http://127.0.0.1:5500/indulo_vonatok.html
+
