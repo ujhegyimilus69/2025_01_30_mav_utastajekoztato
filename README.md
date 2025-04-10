@@ -15,7 +15,7 @@ https://ujhegyimilus69.github.io/2025_01_30_mav_utastajekoztato/
 ### Az alap html szerkezet 🤫🧏‍♂️
 
 
-ˇˇˇˇ
+``` html
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -41,7 +41,7 @@ https://ujhegyimilus69.github.io/2025_01_30_mav_utastajekoztato/
                 <th>Vágány</th>
             </tr>
             </thead>
-ˇˇˇˇ 
+```
 
 
 ### Menő kép
